@@ -1,0 +1,7 @@
+my_string_ = input('C какого Вы города: ')
+print(len(my_string_))
+print(my_string_.upper())
+print(my_string_.lower())
+print(my_string_.replace(' ', '#'))
+print(my_string_[0:1])
+print(my_string_[-1:])
